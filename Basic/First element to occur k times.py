@@ -11,4 +11,6 @@ class Solution:
                 if ht[i]==k:
                     return i
         
+        
+        
         return -1
